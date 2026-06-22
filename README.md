@@ -1,4 +1,4 @@
-<img width="940" height="604" alt="image" src="https://github.com/user-attachments/assets/5c003555-6505-40cb-bdc1-12a2d72586b4" /># Cats vs. Dogs Image Classification using Deep Learning
+ Cats vs. Dogs Image Classification using Deep Learning
 
 This project implements an end-to-end Deep Learning pipeline using Convolutional Neural Networks (CNNs) and Transfer Learning to automate the classification of digital pet images (Cats vs. Dogs). It compares four state-of-the-art architectures and deploys the champion model via an interactive Streamlit web application.
 
@@ -29,5 +29,4 @@ The optimal ResNet50 model was deployed using Streamlit. Users can upload raw im
 ### Interface Screenshot:
 <img width="940" height="654" alt="image" src="https://github.com/user-attachments/assets/3a48eb80-c41b-49fe-bc28-f207f523bb8d" />
 
-
-<img width="940" height="654" alt="image" src="https://github.com/user-attachments/assets/ce07dc7a-72ea-4b30-a83d-fad55e686825" />
+<img width="940" height="604" alt="image" src="https://github.com/user-attachments/assets/5c003555-6505-40cb-bdc1-12a2d72586b4" />#
